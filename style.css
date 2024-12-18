@@ -7,7 +7,7 @@
 }
 body {
   height: 100vh;
-  background: linear-gradient(#ffd55c 50%, #5a95ff 50%);
+  background: #858383;
 }
 .app {
   font-family: "Poppins", sans-serif;
@@ -43,7 +43,7 @@ body {
 }
 #wrapper input:focus {
   outline: none;
-  border-color: #5a95ff;
+  border-color: #858383;
 }
 #wrapper button {
   position: relative;
@@ -51,7 +51,7 @@ body {
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 1em;
-  background-color: #5a95ff;
+  background-color: #858383;
   border: none;
   color: #ffffff;
   cursor: pointer;
